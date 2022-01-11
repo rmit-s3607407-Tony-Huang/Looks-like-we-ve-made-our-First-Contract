@@ -10,7 +10,9 @@ Enter the amount you want to split into the value, make sure you have sufficient
 ![](Associate2.png)
 
 Accept the metamask confirmation
+
 ![](Associate3.png)
 
 The transaction should send the split amount to the three employees
+
 ![](Associate4.png)
